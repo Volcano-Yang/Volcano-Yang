@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### A full stack developer from China🇨🇳.
 
 - 🔭  A boy working in **Tencent**.
-- 📚  Learning **Vue3.0** & **Koa.js** & **Ts**now.
+- 📚  Learning **Vue3.0** & **Koa.js** & **Ts** now.
 - 🎓  I'm busy with **graduation project**.
 - 😄  Welcome to visit [**SZU ITer**](https://github.com/SZU-ITer/introduction-and-communication).
 
