@@ -2,11 +2,6 @@
 
 ### A full stack developer from China🇨🇳.
 
-- 🔭  A boy working in **Tencent**.
-- 📚  Learning **Vue3.0** & **Koa.js** & **Ts** now.
-- 🎓  I'm busy with **graduation project**.
-- 😄  Welcome to visit [**SZU ITer**](https://github.com/SZU-ITer/introduction-and-communication).
-
 <img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Volcano-Yang&count_private=true&show_icons=true"/>
 
 
