@@ -1,11 +1,27 @@
-## Hi, I am Volcano-Yang!👋
+<pre>
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/    
+     
+<strong>Hi, I am Volcano-Yang!👋 </strong>
 
-### A full stack developer from China🇨🇳.
+<strong>A full stack developer from China🇨🇳. </strong>
+
+</pre> 
+
+<img width="100%" alt="game gif" src="https://qny.volcanoblog.cn/github-contribution-grid-snake.svg"/>
+
+
 
 <img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Volcano-Yang&count_private=true&show_icons=true"/>
-
-
-<img width="350px" height="165px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volcano-Yang&layout=compact"/>
 
 
 ### 🛠 &nbsp;Tech Stack
