@@ -19,9 +19,9 @@
 
 <img width="100%" alt="game gif" src="https://qny.volcanoblog.cn/github-contribution-grid-snake.svg"/>
 
+### ⭐️ &nbsp;Github Star
 
-
-<img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Volcano-Yang&count_private=true&show_icons=true"/>
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Volcano-Yang&count_private=true&show_icons=true"/>
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -34,4 +34,8 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:648941183@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-648941183@qq.com-blue?style=flat-square&logo=gmail"></a>
+
+
+### 🛳 &nbsp;Your ticket ID for this visit
+<img src="https://profile-counter.glitch.me/Volcano-Yang/count.svg" />
 
